@@ -80,3 +80,14 @@ section{
   background-repeat: no-repeat;
   background-position:left center ;
 }
+footer{
+  background-color: #202340;
+  height: 55px;
+  text-align: center;
+}
+footer h3{
+  padding-top: 15px;
+  color: #ffffff;
+  font-size: 16px;
+  word-spacing: 3px;
+}
